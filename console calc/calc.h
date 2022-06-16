@@ -1,5 +1,6 @@
 #pragma once
-class calc
+class calc //создание класса.
 {
-
+public:
+	double calcit(double left, char sign, double right);
 };
